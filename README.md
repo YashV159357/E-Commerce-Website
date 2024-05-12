@@ -24,13 +24,13 @@ To install **YV**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/YashV159357/E-Commerce-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/YashV159357/E-Commerce-Website.git
 ```
 
 ## Contact
