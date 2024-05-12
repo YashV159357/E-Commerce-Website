@@ -40,5 +40,6 @@ git clone https://github.com/YashV159357/E-Commerce-Website.git
 
 ## Contact
 
-If you want to contact me you can reach me at 
+If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/yashverma159357).
+
 
