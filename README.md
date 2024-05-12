@@ -8,9 +8,10 @@ YV is a fully responsive ecommerce website, maximum compatiblities in all mobile
 
 ## Demo
 
-![mobile_view](https://github.com/YashV159357/E-Commerce-Website/assets/147998419/bbdc4f7b-a5bf-4ca2-9b6f-0122859e9199 "Mobile View")
+![desktop_view](https://github.com/YashV159357/E-Commerce-Website/assets/147998419/376c3d30-79db-411d-8e4f-04018e5cabde )"Desktop view"
 
-![desktop_view](https://github.com/YashV159357/E-Commerce-Website/assets/147998419/376c3d30-79db-411d-8e4f-04018e5cabde "Desktop view")
+![mobile_view](https://github.com/YashV159357/E-Commerce-Website/assets/147998419/bbdc4f7b-a5bf-4ca2-9b6f-0122859e9199 )"Mobile View"
+
 
 
 ## Prerequisites
