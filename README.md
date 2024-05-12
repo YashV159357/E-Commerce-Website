@@ -8,8 +8,9 @@ YV is a fully responsive ecommerce website, maximum compatiblities in all mobile
 
 ## Demo
 
-![YV Desktop Demo](./website-demo-image/desktop_view.png "Desktop Demo")
-![YV Mobile Demo](./website-demo-image/mobile_view.png "Mobile Demo")
+![YV Desktop Demo](./website-demo-image/desktop view.png_"Desktop Demo")
+
+![YV Mobile Demo](./website-demo-image/mobile view.png "Mobile Demo")
 
 ## Prerequisites
 
